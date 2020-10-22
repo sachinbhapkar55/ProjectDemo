@@ -21,6 +21,12 @@ public class Controller {
 		System.out.println("git branch  m3");
 
 	}
+	
+	public void m4()
+	{
+		System.out.println("git branch  m4");
+
+	}
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Git");
